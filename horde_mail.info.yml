@@ -1,0 +1,6 @@
+name: Horde mail
+type: module
+description: Horde mail system plugin.
+package: Mail
+core: 8.x
+configure: horde_mail.admin_settings

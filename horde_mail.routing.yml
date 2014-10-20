@@ -1,0 +1,7 @@
+horde_mail.admin_settings:
+  path: '/admin/config/system/horde-mail'
+  defaults:
+    _form: '\Drupal\horde_mail\Form\SettingsForm'
+    _title: 'Horde mail settings'
+  requirements:
+    _permission: 'administer horde_mail'

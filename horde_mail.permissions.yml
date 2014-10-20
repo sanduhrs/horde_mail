@@ -1,0 +1,4 @@
+administer horde_mail:
+  title: 'Administer Horde mail'
+  description: 'Adjust Horde mail settings used to send mail.'
+  restrict access: TRUE

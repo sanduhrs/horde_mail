@@ -1,0 +1,5 @@
+horde_mail.admin_settings:
+  title: 'Horde mail settings'
+  description: 'Manage Horde mail settings.'
+  parent: system.admin_config_system
+  route_name: horde_mail.admin_settings

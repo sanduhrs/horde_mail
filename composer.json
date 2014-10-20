@@ -1,0 +1,23 @@
+{
+    "name": "drupal/horde_mail",
+    "type": "drupal-module",
+    "description": "Horde SMTP integration.",
+    "repositories": [
+        {
+            "type": "pear",
+            "url": "http://pear.horde.org"
+        }
+    ],
+    "require": {
+        "pear-pear.horde.org/Horde_SMTP": "*"
+    },
+    "license": "GPL-2.0+",
+    "homepage": "https://drupal.org/project/horde_mail",
+    "authors": [
+        {
+            "name": "Stefan Auditor (sanduhrs)",
+            "homepage": "https://www.drupal.org/u/sanduhrs"
+        }
+    ],
+    "keywords": ["drupal", "mail", "smtp", "horde"]
+}
